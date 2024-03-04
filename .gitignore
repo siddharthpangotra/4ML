@@ -6,14 +6,12 @@ node_modules
 
 # Ignore all text files
 *.txt
+*.ipynb
 
 # Ignore files related to API keys
 .env
+.jovianrc
 
 # Ignore SASS config files
 .sass-cache
 .DS_Store
-ClassificationProblems/.DS_Store
-ClassificationProblems/SpamHam/.DS_Store
-ClassificationProblems/SpamHam/.ipynb_checkpoints/spam_ham_nb-checkpoint.ipynb
-ClassificationProblems/TelcoChurn/.DS_Store
