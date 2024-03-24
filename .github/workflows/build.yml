@@ -3,7 +3,7 @@ name: Build Python Code
 on:
   pull_request:
     branches:
-      - main  # Change this to your main branch name
+      - master  # Change this to your main branch name
 
 jobs:
   build:
